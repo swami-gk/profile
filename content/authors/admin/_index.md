@@ -178,9 +178,7 @@ languages:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-# ---
+ ---
 
 ## About Me
 
-I am seasoned IT leader (currently working Oracle corp for a decade) with more than 20 years of experience enthralled by results and actions, graduated from India’s IVY college. Have fascination towards strategic planning & execution, detail oriented, continuous process improvement, Precision forecasting and budgeting, with a concentrated emphasis on delivering value-added business solutions.Experience in consulting, program & people management, project management and project engineering, Vendor management with the unique blend of hands-on in legacy & modern AI & ML/Cloud technologies along with respective certification (PMP,OCI,GCP,ITIL,Harvard certified) . Core Industrial experience include with respective certification and education as Electrical,Instrumentation and telecom engineer in various industries (Telecom, Power, Petrochemical) along with Functional experience in Retail,Logistics,Manufacturing & Transport and Banking Vertical. Solid background in directing programs, development and implementation of in-house ERP (plant maintenance management & Material Management) modules, Telecom end-to-end in-house Customer management (includes billing) software, Modernizing existing system with AI/ML . Have proven ability to bridge technology and business goal to provide cost effective solution.
----

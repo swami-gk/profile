@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SwamiG
+title: SwamiG - AI whispers, data roars: I speak both languages.
 
 # Name pronunciation (optional)
 name_pronunciation: ''

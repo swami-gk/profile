@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SwamiG
+title: Swaminathan Gnanasambandam
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Driver Technolgy Metamorphosis
+role: Driver of Technolgy Metamorphosis
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -91,9 +91,7 @@ work:
     # date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Ensuring Customer success in Cloud
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
